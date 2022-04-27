@@ -25,5 +25,3 @@ class BitHelper {
     return n ^ (1 << i);
   }
 }
-
-console.log(BitHelper.getBit(4, 4));
